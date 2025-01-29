@@ -12,7 +12,7 @@
 🛠 **Technical Skills:**  
 - **Programming Languages:** C, C++, Java, SQL, Python, R  
 - **Technical Skills:** DBMS, Data Analytics, Excel, Word, HTML, CSS  
-- **Tools:** WEKA, VScode, Google Collab, Android Studio, Turbo C  
+- **Tools:** WEKA, VScode, Google Collab, Android Studio, Turbo C, Power BI  
 
 📫 **Let's Connect:**  
 - 🔗 https://www.linkedin.com/in/sunny-verma-27707830b/  
