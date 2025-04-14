@@ -16,7 +16,8 @@
 
 📫 **Let's Connect:**  
 - 🔗 https://www.linkedin.com/in/sunny-verma-27707830b/  
-- 📂 https://github.com/Sunny1260/Analyzed-Spotify-s-Top-100-Songs 
+- 📂 https://github.com/Sunny1260/
+- 🌐 https://sunny-verma.vercel.app/
 - ✉️ Reach me at: sunverma192@gmail.com  
 
 🚀 **Always open to collaborations on data projects!**
